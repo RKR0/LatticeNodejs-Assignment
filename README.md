@@ -54,4 +54,4 @@ npm start
 ```
 
 ## Postman Collection
-- [Postman Collection Link]([URL](https://www.postman.com/cryosat-operator-44901243/workspace/lattice-java/collection/28290235-49b22785-1841-48cb-a38a-3ae1d752aa24?action=share&creator=28290235)https://www.postman.com/cryosat-operator-44901243/workspace/lattice-java/collection/28290235-49b22785-1841-48cb-a38a-3ae1d752aa24?action=share&creator=28290235)
+- [Postman Collection Link](https://www.postman.com/cryosat-operator-44901243/workspace/lattice-java/collection/28290235-49b22785-1841-48cb-a38a-3ae1d752aa24?action=share&creator=28290235)
