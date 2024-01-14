@@ -1,0 +1,7 @@
+/node_modules
+
+# Ignore the actual .env file
+.env
+
+# Include the .env.dummy file
+!.env.dummy
